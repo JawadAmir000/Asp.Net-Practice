@@ -1,0 +1,15 @@
+F:\learning opp in c#\Dependency Injection\bin\Debug\net6.0\Dependency Injection.exe
+F:\learning opp in c#\Dependency Injection\bin\Debug\net6.0\Dependency Injection.deps.json
+F:\learning opp in c#\Dependency Injection\bin\Debug\net6.0\Dependency Injection.runtimeconfig.json
+F:\learning opp in c#\Dependency Injection\bin\Debug\net6.0\Dependency Injection.dll
+F:\learning opp in c#\Dependency Injection\bin\Debug\net6.0\Dependency Injection.pdb
+F:\learning opp in c#\Dependency Injection\obj\Debug\net6.0\Dependency Injection.csproj.AssemblyReference.cache
+F:\learning opp in c#\Dependency Injection\obj\Debug\net6.0\Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+F:\learning opp in c#\Dependency Injection\obj\Debug\net6.0\Dependency Injection.AssemblyInfoInputs.cache
+F:\learning opp in c#\Dependency Injection\obj\Debug\net6.0\Dependency Injection.AssemblyInfo.cs
+F:\learning opp in c#\Dependency Injection\obj\Debug\net6.0\Dependency Injection.csproj.CoreCompileInputs.cache
+F:\learning opp in c#\Dependency Injection\obj\Debug\net6.0\Dependency Injection.dll
+F:\learning opp in c#\Dependency Injection\obj\Debug\net6.0\refint\Dependency Injection.dll
+F:\learning opp in c#\Dependency Injection\obj\Debug\net6.0\Dependency Injection.pdb
+F:\learning opp in c#\Dependency Injection\obj\Debug\net6.0\Dependency Injection.genruntimeconfig.cache
+F:\learning opp in c#\Dependency Injection\obj\Debug\net6.0\ref\Dependency Injection.dll

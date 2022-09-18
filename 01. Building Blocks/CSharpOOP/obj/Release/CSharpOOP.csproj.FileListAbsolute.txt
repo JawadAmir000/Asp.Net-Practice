@@ -1,0 +1,6 @@
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\bin\Release\CSharpOOP.exe.config
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\bin\Release\CSharpOOP.exe
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\bin\Release\CSharpOOP.pdb
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\obj\Release\CSharpOOP.exe
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\obj\Release\CSharpOOP.pdb
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\obj\Release\CSharpOOP.csprojResolveAssemblyReference.cache

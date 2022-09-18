@@ -1,0 +1,14 @@
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\bin\Release\CSharpOOP.exe.config
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\bin\Release\CSharpOOP.exe
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\bin\Release\CSharpOOP.pdb
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\obj\Release\CSharpOOP.exe
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\obj\Release\CSharpOOP.pdb
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\obj\Release\CSharpOOP.csprojResolveAssemblyReference.cache
+F:\learning opp in c#\06. Inheritance\CSharpOOP\bin\Release\CSharpOOP.exe.config
+F:\learning opp in c#\06. Inheritance\CSharpOOP\bin\Release\CSharpOOP.exe
+F:\learning opp in c#\06. Inheritance\CSharpOOP\bin\Release\CSharpOOP.pdb
+F:\learning opp in c#\06. Inheritance\CSharpOOP\obj\Release\CSharpOOP.csproj.AssemblyReference.cache
+F:\learning opp in c#\06. Inheritance\CSharpOOP\obj\Release\CSharpOOP.csproj.SuggestedBindingRedirects.cache
+F:\learning opp in c#\06. Inheritance\CSharpOOP\obj\Release\CSharpOOP.csproj.CoreCompileInputs.cache
+F:\learning opp in c#\06. Inheritance\CSharpOOP\obj\Release\CSharpOOP.exe
+F:\learning opp in c#\06. Inheritance\CSharpOOP\obj\Release\CSharpOOP.pdb

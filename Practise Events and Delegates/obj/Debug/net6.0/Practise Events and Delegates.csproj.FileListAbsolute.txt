@@ -1,0 +1,15 @@
+F:\learning opp in c#\Practise Events and Delegates\bin\Debug\net6.0\Practise Events and Delegates.exe
+F:\learning opp in c#\Practise Events and Delegates\bin\Debug\net6.0\Practise Events and Delegates.deps.json
+F:\learning opp in c#\Practise Events and Delegates\bin\Debug\net6.0\Practise Events and Delegates.runtimeconfig.json
+F:\learning opp in c#\Practise Events and Delegates\bin\Debug\net6.0\Practise Events and Delegates.dll
+F:\learning opp in c#\Practise Events and Delegates\bin\Debug\net6.0\Practise Events and Delegates.pdb
+F:\learning opp in c#\Practise Events and Delegates\obj\Debug\net6.0\Practise Events and Delegates.csproj.AssemblyReference.cache
+F:\learning opp in c#\Practise Events and Delegates\obj\Debug\net6.0\Practise Events and Delegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\learning opp in c#\Practise Events and Delegates\obj\Debug\net6.0\Practise Events and Delegates.AssemblyInfoInputs.cache
+F:\learning opp in c#\Practise Events and Delegates\obj\Debug\net6.0\Practise Events and Delegates.AssemblyInfo.cs
+F:\learning opp in c#\Practise Events and Delegates\obj\Debug\net6.0\Practise Events and Delegates.csproj.CoreCompileInputs.cache
+F:\learning opp in c#\Practise Events and Delegates\obj\Debug\net6.0\Practise Events and Delegates.dll
+F:\learning opp in c#\Practise Events and Delegates\obj\Debug\net6.0\refint\Practise Events and Delegates.dll
+F:\learning opp in c#\Practise Events and Delegates\obj\Debug\net6.0\Practise Events and Delegates.pdb
+F:\learning opp in c#\Practise Events and Delegates\obj\Debug\net6.0\Practise Events and Delegates.genruntimeconfig.cache
+F:\learning opp in c#\Practise Events and Delegates\obj\Debug\net6.0\ref\Practise Events and Delegates.dll

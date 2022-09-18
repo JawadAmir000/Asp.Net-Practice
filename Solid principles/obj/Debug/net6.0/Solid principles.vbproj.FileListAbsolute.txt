@@ -1,0 +1,15 @@
+F:\learning opp in c#\Solid principles\bin\Debug\net6.0\Solid principles.exe
+F:\learning opp in c#\Solid principles\bin\Debug\net6.0\Solid principles.deps.json
+F:\learning opp in c#\Solid principles\bin\Debug\net6.0\Solid principles.runtimeconfig.json
+F:\learning opp in c#\Solid principles\bin\Debug\net6.0\Solid principles.dll
+F:\learning opp in c#\Solid principles\bin\Debug\net6.0\Solid principles.pdb
+F:\learning opp in c#\Solid principles\obj\Debug\net6.0\Solid principles.vbproj.AssemblyReference.cache
+F:\learning opp in c#\Solid principles\obj\Debug\net6.0\Solid principles.GeneratedMSBuildEditorConfig.editorconfig
+F:\learning opp in c#\Solid principles\obj\Debug\net6.0\Solid principles.AssemblyInfoInputs.cache
+F:\learning opp in c#\Solid principles\obj\Debug\net6.0\Solid principles.AssemblyInfo.vb
+F:\learning opp in c#\Solid principles\obj\Debug\net6.0\Solid principles.vbproj.CoreCompileInputs.cache
+F:\learning opp in c#\Solid principles\obj\Debug\net6.0\Solid principles.dll
+F:\learning opp in c#\Solid principles\obj\Debug\net6.0\refint\Solid principles.dll
+F:\learning opp in c#\Solid principles\obj\Debug\net6.0\Solid principles.pdb
+F:\learning opp in c#\Solid principles\obj\Debug\net6.0\Solid principles.genruntimeconfig.cache
+F:\learning opp in c#\Solid principles\obj\Debug\net6.0\ref\Solid principles.dll

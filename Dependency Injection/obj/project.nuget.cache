@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2LVU/nnLLieKkuPJeYxA3iXLKlWDgNEYcZnw4n5VO7FjkBAzRR9DjKyXrjCi3JO3a0lRdgMcZQOAy9xGNiXV3w==",
+  "success": true,
+  "projectFilePath": "F:\\learning opp in c#\\Dependency Injection\\Dependency Injection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xawad\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\xawad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\xawad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+F:\learning opp in c#\MagicDestroyers+-+Part+1\MagicDestroyers - Part 1\MagicDestroyers\bin\Debug\MagicDestroyers.exe.config
+F:\learning opp in c#\MagicDestroyers+-+Part+1\MagicDestroyers - Part 1\MagicDestroyers\bin\Debug\MagicDestroyers.exe
+F:\learning opp in c#\MagicDestroyers+-+Part+1\MagicDestroyers - Part 1\MagicDestroyers\bin\Debug\MagicDestroyers.pdb
+F:\learning opp in c#\MagicDestroyers+-+Part+1\MagicDestroyers - Part 1\MagicDestroyers\obj\Debug\MagicDestroyers.csproj.AssemblyReference.cache
+F:\learning opp in c#\MagicDestroyers+-+Part+1\MagicDestroyers - Part 1\MagicDestroyers\obj\Debug\MagicDestroyers.csproj.SuggestedBindingRedirects.cache
+F:\learning opp in c#\MagicDestroyers+-+Part+1\MagicDestroyers - Part 1\MagicDestroyers\obj\Debug\MagicDestroyers.csproj.CoreCompileInputs.cache
+F:\learning opp in c#\MagicDestroyers+-+Part+1\MagicDestroyers - Part 1\MagicDestroyers\obj\Debug\MagicDestroyers.exe
+F:\learning opp in c#\MagicDestroyers+-+Part+1\MagicDestroyers - Part 1\MagicDestroyers\obj\Debug\MagicDestroyers.pdb
